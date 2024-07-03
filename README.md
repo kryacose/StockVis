@@ -30,3 +30,7 @@ All the data used for this visualization is located in the **Data** folder.
 - **Transaction Data:** This chord diagram illustrates an investment firm's portfolio activity. Arcs symbolize different stocks, with their thickness indicating the amount invested. Ribbons connect the stocks to show capital movement. The surrounding bar graph quantifies the final holdings as a percentage of the portfolio. The diagram's purpose is to demonstrate the relationships between the entry, and exit strategies, and the invested amounts in various stocks
 
 - **Candlestick Chart:** This chart is an extension of the existing system which fits in our use case. It helps in getting an in-depth understanding of the stock price movements over the defined period. To complement this, a drop-down menu is implemented for the user to select the price movement of the specific stock.
+
+## Screenshot
+
+![alt text](./screenshots/1.png "Dashboard")
